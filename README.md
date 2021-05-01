@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esprinciao
 - 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning Computer Science Engineering.
+- 🌱 I’m currently pursuing Computer Science Engineering.
 - 📫 twitter:@esprinciao
 
 <!---
