@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @esprinciao
-- 👀 I’m interested in learning programming.
-- 🌱 I’m currently pursuing Computer Science Engineering.
+- 👋 Hi, I’m Prince P R
+- 👀 I’m interested in learning programming and contributing my skills.
+- 🌱 I’m currently pursuing Computer Science Engineering at TKM College of Engineering.
 - 📫 twitter:@esprinciao
 
 <!---
