@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince P R
 - 👀 I’m interested in learning programming and contributing my skills.
-- 🌱 I’m currently pursuing Computer Science Engineering at TKM College of Engineering.
+- 🌱 I’m currently a software developer trainee at UST Global, Trivandrum.
 - 📫 twitter:@esprinciao
 
 <!---
